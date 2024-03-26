@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 9px;
+    background-color: #BBE2EC;
+}
+
+.container {
+    width: 165px;
+    height: 250px;
+    margin: 45%;
+    background-color:white ;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0.5px #F8F6E3;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-radius: 10px;
+
+}
+
+h2 {
+    font-size: 11px;
+    margin-left: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.name1 {
+    margin-left:8px;
+}
+
+h6 {
+    font-size: 7px;
+}
+
+
+h6 span {
+    display: flex;
+}
+
+.saran1 {
+margin-left: 23px;
+font-family: "Gruppo", sans-serif;
+}
+
+.saran2 {
+    margin-left: 21px;
+    font-family: "Gruppo", sans-serif;
+}
+
+.saran3 {
+    margin-left: 60px;
+    font-family: "Gruppo", sans-serif;
+}
